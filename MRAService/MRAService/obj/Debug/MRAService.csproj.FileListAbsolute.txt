@@ -1,0 +1,6 @@
+C:\Users\RAYMART\source\repos\MRAService\MRAService\bin\Debug\MRAService.dll.config
+C:\Users\RAYMART\source\repos\MRAService\MRAService\bin\Debug\MRAService.dll
+C:\Users\RAYMART\source\repos\MRAService\MRAService\bin\Debug\MRAService.pdb
+C:\Users\RAYMART\source\repos\MRAService\MRAService\obj\Debug\MRAService.csproj.CoreCompileInputs.cache
+C:\Users\RAYMART\source\repos\MRAService\MRAService\obj\Debug\MRAService.dll
+C:\Users\RAYMART\source\repos\MRAService\MRAService\obj\Debug\MRAService.pdb

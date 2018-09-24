@@ -1,0 +1,10 @@
+C:\Users\RAYMART\source\repos\MRAService\MRAServiceHost\bin\Debug\MRAServiceHost.exe.config
+C:\Users\RAYMART\source\repos\MRAService\MRAServiceHost\bin\Debug\MRAServiceHost.exe
+C:\Users\RAYMART\source\repos\MRAService\MRAServiceHost\bin\Debug\MRAServiceHost.pdb
+C:\Users\RAYMART\source\repos\MRAService\MRAServiceHost\bin\Debug\MRAService.dll
+C:\Users\RAYMART\source\repos\MRAService\MRAServiceHost\bin\Debug\MRAService.pdb
+C:\Users\RAYMART\source\repos\MRAService\MRAServiceHost\bin\Debug\MRAService.dll.config
+C:\Users\RAYMART\source\repos\MRAService\MRAServiceHost\obj\Debug\MRAServiceHost.csprojResolveAssemblyReference.cache
+C:\Users\RAYMART\source\repos\MRAService\MRAServiceHost\obj\Debug\MRAServiceHost.csproj.CoreCompileInputs.cache
+C:\Users\RAYMART\source\repos\MRAService\MRAServiceHost\obj\Debug\MRAServiceHost.exe
+C:\Users\RAYMART\source\repos\MRAService\MRAServiceHost\obj\Debug\MRAServiceHost.pdb
